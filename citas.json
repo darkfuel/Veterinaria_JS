@@ -1,1 +1,23 @@
-[]
+[
+ {
+  "nombre": "Benito",
+  "edad": "2 años",
+  "tipo": "perro",
+  "color": "blanco",
+  "enfermedad": "vomito"
+ },
+ {
+  "nombre": "Braulio",
+  "edad": "10 años",
+  "tipo": "gato",
+  "color": "blanco",
+  "enfermedad": "dolor"
+ },
+ {
+  "nombre": "Kitty",
+  "edad": "8 años",
+  "tipo": "gato",
+  "color": "negro",
+  "enfermedad": "inflamacion"
+ }
+]
